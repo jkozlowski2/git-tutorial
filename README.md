@@ -1,2 +1,0 @@
-Git Tutorial
-Jackson Kozlowski
